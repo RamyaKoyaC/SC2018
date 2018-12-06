@@ -3,7 +3,7 @@ Super Computing 2018 was one amazing experience and here's something I really lo
 ### Introduction of Practical Approaches to Data Analysis for HPC with Spark 
 This tutorial was presented by The University of Tennessee, Knoxville
 
-* Started with how to sue the Jupyter Notebook 
+* Started with how to use the Jupyter Notebook 
 * They gave access to the Cluster at Oak Ridge National Laboratory 
 * Explained how to run code in cells 
 * Introduction to MarkDown
